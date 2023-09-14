@@ -1,0 +1,173 @@
+@font-face {
+    font-family: Bulletto;
+    src: url(fonts/Bulletto.ttf);
+}
+
+@font-face {
+    font-family: Regista;
+    src: url(fonts/Regista.ttf);
+}
+
+@font-face {
+    font-family: Regista_i;
+    src: url(fonts/Regista_i.ttf);
+}
+
+@font-face {
+    font-family: Rockybilly;
+    src: url(fonts/Rockybilly.ttf);
+}
+
+@font-face {
+    font-family: Alvi;
+    src: url(fonts/Alvi.ttf);
+}
+
+/* =================================================  */
+
+.form_heading {
+
+    /* border: 2px solid wheat; */
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.6);
+    height: fit-content;
+    padding: 10px;
+}
+
+.form_main {
+
+    border: 2px solid maroon;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.6);
+    height: fit-content;
+    padding-bottom: 20px;
+}
+
+
+
+/* ======================================================== */
+.Sname_div {
+    /* border: 2px solid cyan; */
+    color: white;
+    padding: 10px;
+}
+
+.PA_btn_div {
+    /* border: 2px solid greenyellow; */
+    color: white;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.P_Button {
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    width: 200px;
+    text-align: center;
+    padding: 3px 20px;
+}
+
+.P_Button:hover {
+    border: 2px solid white;
+    border-radius: 20px;
+    color: white;
+    background-color: green;
+    width: 200px;
+    text-align: center;
+    padding: 3px 20px;
+}
+
+.A_Button {
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    width: 200px;
+    text-align: center;
+    padding: 3px 20px;
+}
+
+.A_Button:hover {
+    border: 2px solid white;
+    border-radius: 20px;
+    color: white;
+    background-color: red;
+    width: 200px;
+    text-align: center;
+    padding: 3px 20px;
+}
+
+.S_Button {
+
+    /* border: 2px solid white; */
+    border-radius: 20px;
+    color: white;
+    background-color: darkblue;
+    width: fit-content;
+    text-align: center;
+    padding: 3px 20px;
+
+}
+
+.S_Button:hover {
+
+    /* border: 2px solid white; */
+    border-radius: 20px;
+    color: white;
+    background-color: green;
+    width: fit-content;
+    text-align: center;
+    padding: 3px 20px;
+    /* box-shadow: 5px 5px 5px yellow; */
+
+}
+
+
+.TS_Button {
+
+    /* border: 2px solid white; */
+    border-radius: 20px;
+    color: white;
+    background-color: maroon;
+    width: fit-content;
+    text-align: center;
+    padding: 3px 20px;
+
+}
+
+.TS_Button:hover {
+
+    /* border: 2px solid white; */
+    border-radius: 20px;
+    color: white;
+    background-color: green;
+    width: fit-content;
+    text-align: center;
+    padding: 3px 20px;
+
+}
+
+
+
+
+
+
+
+
+/* =================================================  */
+@media only screen and (max-width: 1920px) {}
+
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 992px) {}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 535px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 412px) {}
